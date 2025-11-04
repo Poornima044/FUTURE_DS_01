@@ -106,4 +106,50 @@ Design tips:
 - Business Storytelling using Visuals  
 - Power BI
 
+E-commerce-Sales-Dashboard/
+├── README.md
+├── data/
+│ └── ecommerce_sales.csv # raw dataset (download from Kaggle)
+├── analysis/
+│ └── cleaned_data.xlsx # cleaned sample dataset
+├── reports/
+│ └── PowerBI_Dashboard.pbix # your Power BI file
+└── screenshots/
+└── dashboard_preview.png
+
+
+---
+
+## 🏁 Final Deliverables
+- Cleaned dataset (`.xlsx` or `.csv`)  
+- Interactive Power BI Dashboard (`.pbix`)  
+- Short summary of insights & recommendations (PDF or Markdown)
+
+---
+
+## 🔁 How to Use (quick)
+1. Download the dataset (Kaggle) and place it in `data/ecommerce_sales.csv`.  
+2. Open Power BI Desktop → `Get Data` → choose the CSV/Excel file.  
+3. Use Power Query to perform transformations (or clean in Excel and import).  
+4. Create DAX measures and visuals described above.  
+5. Export screenshots and write a short report summarizing insights.
+
+---
+
+## ✍️ Notes & Tips
+- Keep a separate copy of the raw dataset (never overwrite).  
+- Document every transformation step in Power Query for reproducibility.  
+- Use bookmarks and buttons in Power BI to create a guided narrative.
+
+---
+
+## 📬 Contact / Author
+**Poornima** — Aspiring Data Analyst
+README_CONTENT
+
+echo "Project structure created at ./$ROOT"
+echo "README.md written to ./$ROOT/README.md"
+echo "Place your real dataset in ./$ROOT/data/ecommerce_sales.csv and edit files as needed."
+
+
 
