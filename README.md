@@ -145,11 +145,7 @@ E-commerce-Sales-Dashboard/
 
 ## 📬 Contact / Author
 **Poornima** — Aspiring Data Analyst
-README_CONTENT
 
-echo "Project structure created at ./$ROOT"
-echo "README.md written to ./$ROOT/README.md"
-echo "Place your real dataset in ./$ROOT/data/ecommerce_sales.csv and edit files as needed."
 
 
 
