@@ -62,12 +62,6 @@ Analyze:
 - **Customer Lifetime Value**  
 - **Product Category Contribution**
 
-Use DAX measures to calculate:
-- Total Revenue  
-- Total Quantity Sold  
-- Average Order Value  
-- Monthly Growth %  
-
 ---
 
 ## 🖥️ Step 3: Dashboard Development (in Power BI)
@@ -77,17 +71,12 @@ Include:
 - **Bar Chart:** Top 10 Products by Sales  
 - **Map Visualization:** Sales by Country  
 - **Pie/Donut Chart:** Category Contribution  
-- **Slicers/Filters:** Year, Month, Country, Category  
-
-Design tips:
-- Use consistent color themes.  
-- Add a clean title page and navigation buttons.  
-- Use tooltips to show extra insights on hover.
-
+- **Slicers/Filters:** Year, Month, Country, Category
+  
 ---
 
 ## 💡 Step 4: Insights & Recommendations
-**Example Insights:**
+**Insights:**
 - November–December often show peak sales (holiday season).  
 - Home décor and gift items commonly contribute high revenue.  
 - Repeat customers may account for a major share of revenue.
@@ -116,30 +105,6 @@ E-commerce-Sales-Dashboard/
 │ └── PowerBI_Dashboard.pbix # your Power BI file
 └── screenshots/
 └── dashboard_preview.png
-
-
----
-
-## 🏁 Final Deliverables
-- Cleaned dataset (`.xlsx` or `.csv`)  
-- Interactive Power BI Dashboard (`.pbix`)  
-- Short summary of insights & recommendations (PDF or Markdown)
-
----
-
-## 🔁 How to Use (quick)
-1. Download the dataset (Kaggle) and place it in `data/ecommerce_sales.csv`.  
-2. Open Power BI Desktop → `Get Data` → choose the CSV/Excel file.  
-3. Use Power Query to perform transformations (or clean in Excel and import).  
-4. Create DAX measures and visuals described above.  
-5. Export screenshots and write a short report summarizing insights.
-
----
-
-## ✍️ Notes & Tips
-- Keep a separate copy of the raw dataset (never overwrite).  
-- Document every transformation step in Power Query for reproducibility.  
-- Use bookmarks and buttons in Power BI to create a guided narrative.
 
 ---
 
