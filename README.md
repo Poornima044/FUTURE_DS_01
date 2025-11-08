@@ -29,6 +29,7 @@ The final output is an **interactive Power BI dashboard** with filters, KPIs, an
 **Dataset Name:** E-commerce Sales Data  
 **Source:** Kaggle – E-commerce Dataset (UK-based Online Retailer)  
 **File Format:** `.csv`  
+Data covers transactions from 2009–2011
 
 **Columns typically include:**
 
@@ -85,6 +86,10 @@ Include:
 - Launch seasonal promotions before peak months.  
 - Focus marketing on top-performing categories.  
 - Offer loyalty rewards to frequent customers.
+
+---
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ---
 
