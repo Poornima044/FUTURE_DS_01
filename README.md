@@ -79,7 +79,7 @@ Include:
 ## 💡 Step 4: Insights & Recommendations
 **Insights:**
 - November–December often show peak sales (holiday season).  
-- Home décor and gift items commonly contribute high revenue.  
+- Others, Decorations, Bag & accessories are commonly contribute high revenue.  
 - Repeat customers may account for a major share of revenue.
 
 **Recommendations:**
