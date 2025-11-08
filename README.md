@@ -89,7 +89,7 @@ Include:
 
 ---
 
-![Dashboard Preview][(https://github.com/Poornima044/FUTURE_DS_01/blob/main/screenshots.png)]
+![Dashboard Preview](https://github.com/Poornima044/FUTURE_DS_01/blob/main/screenshots.png)
 
 ---
 
