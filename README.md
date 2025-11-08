@@ -79,7 +79,7 @@ Include:
 ## 💡 Step 4: Insights & Recommendations
 **Insights:**
 - November–December often show peak sales (holiday season).  
-- Others, Decorations, Bag & accessories are commonly contribute high revenue.  
+- Categories like Others, Decorations, and Bags & Accessories contribute the highest revenue.  
 - Repeat customers may account for a major share of revenue.
 
 **Recommendations:**
@@ -93,6 +93,15 @@ Include:
 
 ---
 
+## 🧰 Tools Used
+- Microsoft Power BI  
+- Microsoft Excel  
+- Power Query  
+- DAX (Data Analysis Expressions)  
+- GitHub
+
+---
+
 ## 🧠 Skills Gained
 - Data Cleaning & Transformation  
 - Time-Series Trend Analysis  
@@ -103,18 +112,16 @@ Include:
 E-commerce-Sales-Dashboard/
 ├── README.md
 ├── data/
-│ └── ecommerce_sales.csv # raw dataset (download from Kaggle)
+│   └── ecommerce_sales.csv              # raw dataset (download from Kaggle)
 ├── analysis/
-│ └── cleaned_data.xlsx # cleaned sample dataset
+│   └── cleaned_data.xlsx                # cleaned sample dataset
 ├── reports/
-│ └── PowerBI_Dashboard.pbix # your Power BI file
+│   └── PowerBI_Dashboard.pbix           # your Power BI file
 └── screenshots/
-└── dashboard_preview.png
+    └── dashboard_preview.png            # dashboard preview image
 
----
 
-## 📬 Contact / Author
-**Poornima** — Aspiring Data Analyst
+
 
 
 
